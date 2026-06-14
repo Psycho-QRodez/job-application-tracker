@@ -1,12 +1,12 @@
-Job Application Tracker
+**Job Application Tracker**
 
 A full-stack job application tracking system built with Next.js and Supabase. Users can manage job applications efficiently by tracking statuses, searching records, and organizing their job search process.
 
-Live Demo
+**Live Demo**
 
 https://job-application-tracker-three-livid.vercel.app/
 
-Features
+**Features**
 Add new job applications
 Update application statuses
 Delete applications
@@ -23,7 +23,7 @@ PostgreSQL
 Vercel
 
 
-Run Locally
+**Run Locally**
 git clone https://github.com/Psycho-QRodez/job-application-tracker.git
 
 cd job-application-tracker
