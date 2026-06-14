@@ -22,7 +22,7 @@ A full-stack job application tracking system built with Next.js and Supabase.
 
 ## Live Demo
 
-Coming Soon
+https://job-application-tracker-three-livid.vercel.app/
 
 ## Local Setup
 
